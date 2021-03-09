@@ -21,4 +21,4 @@
   - [x] Commit
 
 #### :two_hearts: Não esqueçam de dar uma passada no "site-exemplo" para ver uma pagina de apresentação sobre mim :two_hearts:
-##### <span style="color: green;"> É uma página teste, mas vai ficar muito legal quando implementá-la pra ficar 100% com a minha cara.</span>
+##### É uma página teste, mas vai ficar muito legal quando implementá-la pra ficar 100% com a minha cara.
